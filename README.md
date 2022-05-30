@@ -1,1 +1,1 @@
-# Leader-in-arry
+# Leader-in-array
